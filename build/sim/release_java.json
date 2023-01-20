@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project converted_arduino)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/frc/code/main_robot/converted_arduino/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/frc/code/main_robot/converted_arduino/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/frc/code/main_robot/converted_arduino/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
